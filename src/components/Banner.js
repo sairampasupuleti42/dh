@@ -9,16 +9,16 @@ export default function Banner() {
     <Container>
       <Slider {...settings}>
         <div>
-          <img src="http://placekitten.com/g/400/200" />
+          <img src="https://placekitten.com/g/1400/475" />
         </div>
         <div>
-          <img src="http://placekitten.com/g/400/200" />
+          <img src="https://placekitten.com/g/1400/475" />
         </div>
         <div>
-          <img src="http://placekitten.com/g/400/200" />
+          <img src="https://placekitten.com/g/1400/475" />
         </div>
         <div>
-          <img src="http://placekitten.com/g/400/200" />
+          <img src="https://placekitten.com/g/1400/475" />
         </div>
       </Slider>
     </Container>
