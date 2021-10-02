@@ -2,6 +2,9 @@ import React from 'react';
 import styled from 'styled-components';
 import Slider from 'react-slick';
 export default function Banner() {
+  var settings = {
+    dots: true,
+  };
   return (
     <Container>
       <Slider {...settings}>
